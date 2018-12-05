@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/uk/co/autotrader/adventofcode/day/two/DayTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="506">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -58,6 +61,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -179,16 +183,15 @@
       <workItem from="1543925220775" duration="145000" />
       <workItem from="1543945395594" duration="265000" />
       <workItem from="1544000390459" duration="1020000" />
-      <workItem from="1544013346928" duration="128000" />
+      <workItem from="1544013346928" duration="380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14205000" />
+    <option name="totallyTimeSpent" value="14457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,7 +210,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -257,8 +260,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/autotrader/adventofcode/day/two/DayTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        <state relative-caret-position="506">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
